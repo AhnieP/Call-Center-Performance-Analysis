@@ -1,11 +1,7 @@
-# Call-Center-Performance-Analysis
+# Call-Center-Performance-Analysis (Excel + Power BI)
 This project explores the performance of a call center using historical interaction data. It evaluates key performance indicators (KPIs) such as agent responsiveness, call resolution times, queue management, and overall customer service efficiency. The goal is to identify improvement areas to boost service delivery and agent productivity.
 
-# 📞 Call Center Performance Analysis
-
-This project explores the performance of a call center using historical interaction data. It evaluates key performance indicators (KPIs) such as agent responsiveness, call resolution times, queue management, and overall customer service efficiency. The goal is to identify improvement areas to boost service delivery and agent productivity.
-
-## Overview
+## Project Overview
 
 The dataset contains information about customer service interactions, including call types, durations, wait times, agent IDs, and resolutions. The analysis provides insight into:
 
@@ -34,6 +30,11 @@ The dataset contains information about customer service interactions, including 
 - Evaluate response and resolution efficiency
 - Detect bottlenecks in call flow and queue times
 - Understand customer satisfaction trends
+
+## Tools Used
+
+- **Excel** – Data cleaning & exploration  
+- **Power BI** – Visual dashboard development
 
 ## Key Insights from Call Center Q1 Performance Analytics
 
@@ -77,11 +78,15 @@ The dataset contains information about customer service interactions, including 
 - Diane and Joe recorded the lowest satisfaction ratings and relatively low task volumes.
 - These agents may benefit from additional training or performance support to improve output and customer satisfaction.
 
+## Dashboard Overview
 
-## Tools Used
+The interactive Power BI dashboard provides a comprehensive visual summary of the call center's performance metrics for Q1. It highlights key operational indicators such as total calls, answered and unanswered calls, average speed of answer, resolution rates, and customer satisfaction scores. The dashboard also breaks down agent performance, comparing metrics like talk time, satisfaction ratings, and call volumes. Additionally, it visualizes call topics and trends over time, enabling stakeholders to quickly identify high-demand support areas and performance fluctuations across months. This tool supports data-driven decision-making by presenting complex data in a clear and actionable format.
 
-- **Excel** – Data cleaning & exploration  
-- **Power BI** – Visual dashboard development  
+- <img width="794" height="451" alt="Screenshot 2025-07-10 181520" src="https://github.com/user-attachments/assets/994dac1c-62ed-4d26-a8b9-2e28e3adff83" />
+
+## Project Access Template
+
+- Use the Power BI Desktop (latest version) to view project [here](https://app.powerbi.com/groups/me/reports/07e5739e-e98c-4bd4-a5e6-1f136e4e41ed/2c19165e1931c0daea4b?experience=power-bi)
 
 ### Recommendations
 
@@ -108,6 +113,8 @@ The dataset contains information about customer service interactions, including 
 
 8. **Re-evaluate Unanswered Call Rate**
    - Explore callback technology or automated queue updates to reduce customer drop-offs from unanswered calls.
+  
+  
 
 
 ## Conclusion

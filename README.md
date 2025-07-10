@@ -114,3 +114,11 @@ The dataset contains information about customer service interactions, including 
 
 The Q1 performance analysis indicates that the call center is operationally strong, with a high resolution rate and fast response times. However, agent productivity varies significantly, with a few top performers and others lagging in satisfaction and call handling. Customer satisfaction remains moderate and has declined over time, suggesting a gap between service speed and experience quality. The dominance of technical support calls highlights recurring customer issues, while the volume of unanswered calls and a notable satisfaction drop in February point to staffing or workflow inefficiencies during peak periods.
 
+## Author
+
+**Anna Paul**  
+*Data Analyst*  
+📍 Abuja, Nigeria  
+📧 [annapaul668@gmail.com](mailto:annapaul668@gmail.com)  
+📞 +234 8142944324
+

@@ -1,4 +1,4 @@
-# Call-Center-Q1-Performance-Analysis (Excel + Power BI)
+# Mobi Health Call-Center-Q1-Performance-Analysis (Excel + Power BI)
 This project explores the performance of a call center using historical interaction data. It evaluates key performance indicators (KPIs) such as agent responsiveness, call resolution times, queue management, and overall customer service efficiency. The goal is to identify improvement areas to boost service delivery and agent productivity.
 
 ## Project Overview
@@ -10,6 +10,7 @@ The dataset contains information about customer service interactions, including 
 - Agent performance metrics
 - Resolution rates
 - Customer interaction patterns
+- Service category distribution
 
 ## Dataset Summary
 
@@ -82,7 +83,9 @@ The dataset contains information about customer service interactions, including 
 
 The interactive Power BI dashboard provides a comprehensive visual summary of the call center's performance metrics for Q1. It highlights key operational indicators such as total calls, answered and unanswered calls, average speed of answer, resolution rates, and customer satisfaction scores. The dashboard also breaks down agent performance, comparing metrics like talk time, satisfaction ratings, and call volumes. Additionally, it visualizes call topics and trends over time, enabling stakeholders to quickly identify high-demand support areas and performance fluctuations across months. This tool supports data-driven decision-making by presenting complex data in a clear and actionable format.
 
-- <img width="794" height="451" alt="Screenshot 2025-07-10 181520" src="https://github.com/user-attachments/assets/994dac1c-62ed-4d26-a8b9-2e28e3adff83" />
+- <img width="915" height="517" alt="Screenshot 2025-08-02 144738" src="https://github.com/user-attachments/assets/b9edf831-1769-44bb-857b-fb90b3c0403d" />
+- <img width="908" height="511" alt="Screenshot 2025-08-02 151415" src="https://github.com/user-attachments/assets/9eb7d8db-9d41-4790-90ee-9794e3b3831d" />
+
 
 ## Project Access Template
 

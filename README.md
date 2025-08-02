@@ -12,18 +12,6 @@ The dataset contains information about customer service interactions, including 
 - Customer interaction patterns
 - Service category distribution
 
-## Dataset Summary
-
-- **Fields include**:
-  - `Call ID`
-  - `Agent Name`
-  - `Call Date & Time`
-  - `Call Duration`
-  - `Wait Time`
-  - `Call Type` (Inbound/Outbound)
-  - `Customer Satisfaction`
-  - `Issue Resolved` (Yes/No)
-
 ## Objectives
 
 - Analyze overall call volume trends
